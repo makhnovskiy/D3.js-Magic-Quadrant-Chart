@@ -1,6 +1,12 @@
+
+
 # Emotional/transactional decisionmaking 
 
 Interactive exploration of how emotional vs transactional decisionmaking compares to the ability of a sector to be disrupted by an 'on-demand' service.
+
+## CREDITS
+All credits go to the starting point D3 chart, but a little more styled and prettier. Similar look/feel as anyChart. 
+https://github.com/jonnyburch/emotion-quadrant-graph
 
 ### License
 
